@@ -61,7 +61,7 @@ for i in range(n-2,-1,-1):
     
 for i in range(n):
     print('X%d = %0.2f'%(i,x[i]),end = ' ')
-    ```
+ ```
 
 ## Output:
 ![Screenshot_20230126_080455](https://user-images.githubusercontent.com/121608770/214863839-b856e042-9797-4eb9-89e9-5337f0e1db99.png)
